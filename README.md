@@ -74,4 +74,3 @@ npm run dev
 ### 5. Access the Application
 - Frontend: `http://localhost:5173`
 - Backend: `http://localhost:5000`
-```
