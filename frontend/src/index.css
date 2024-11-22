@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input {
+}
+::-ms-reveal {
+  filter: invert(100%);
+}
